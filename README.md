@@ -32,8 +32,39 @@ To build a beginner-friendly cybersecurity tool that helps users understand pass
 # Clone the repository
 git clone https://github.com/SabnamBanu/Password-Strength-Checker.git
 
+---
+
 # Navigate into the folder
 cd Password-Strength-Checker
 
 # Run the program
 python password_checker.py
+```
+---
+
+## 📚 Project Details
+- **Student Name:** Sabnam Banu  
+- **Course:** B.Tech in Computer Science & Engineering  
+- **Intern at:** Inligh Tech  
+- **Duration:** 10 Sept 2025 – 10 Nov 2025  
+- **Submission Date:** 10 Nov 2025  
+
+---
+
+## 🧠 Learning Outcomes
+- Learned to use Regular Expressions for pattern matching  
+- Understood password security rules and strength metrics  
+- Gained experience documenting and publishing a Python project on GitHub  
+
+---
+
+## 🔮 Future Improvements
+- Add GUI using Tkinter  
+- Add password suggestion feature for weak passwords  
+- Build a web version using Flask  
+
+---
+
+## 🏁 Conclusion
+This Password Strength Checker enhances password awareness and helps users create stronger credentials — a crucial skill in cybersecurity.
+
