@@ -45,7 +45,7 @@ python password_checker.py
 ## 📚 Project Details
 - **Student Name:** Sabnam Banu  
 - **Course:** B.Tech in Computer Science & Engineering  
-- **Intern at:** Inligh Tech  
+- **Intern at:** Inlighn Tech  
 - **Duration:** 10 Sept 2025 – 10 Nov 2025  
 - **Submission Date:** 10 Nov 2025  
 
