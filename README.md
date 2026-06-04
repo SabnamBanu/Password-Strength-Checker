@@ -68,3 +68,9 @@ python password_checker.py
 ## 🏁 Conclusion
 This Password Strength Checker enhances password awareness and helps users create stronger credentials — a crucial skill in cybersecurity.
 
+## 👩‍💻 Author
+**Sabnam Banu**  
+B.Tech, Dept. of Computer Science & Engineering — UPES, Dehradun  
+Internship: InLighnX Global (10 Sep 2025 – 10 Nov 2025)  
+Email: sabnam11sab@gmail.com
+
